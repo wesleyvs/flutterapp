@@ -2,5 +2,5 @@
   
 O app consiste em um ID Card, onde podemos alterar a foto e os dados.
   
-## Demonstração:
+### Demonstração:
 ![](amostra.gif)
